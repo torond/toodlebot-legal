@@ -38,4 +38,4 @@ ToodleBot keeps its privacy policy under regular review and places any updates o
 This policy was last updated on 30 April 2021.
 
 ## How to contact us
-If you have any questions about ToodleBot's privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us at info@toodle.click.
+If you have any questions about ToodleBot's privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us at info(at)toodle.click
